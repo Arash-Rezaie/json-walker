@@ -1,13 +1,13 @@
 [package]
-name = "json_walker"
+name = "json-walker"
 version = "0.1.0"
 edition = "2021"
 authors = ["Arash <arash.re.12@protonmail.com>"]
 keywords = ["json", "deserialize", "stream"]
 license = "MIT"
 description = "JSON stream parser and deserializer. In this package you decide what part of json must be parsed"
-homepage = "https://github.com/Arash-Rezaie/json_walker"
-repository = "https://github.com/Arash-Rezaie/json_walker"
+homepage = "https://github.com/Arash-Rezaie/json-walker"
+repository = "https://github.com/Arash-Rezaie/json-walker"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
