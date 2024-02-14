@@ -1,4 +1,4 @@
-# Rust Json_Walker
+# Rust Json-Walker
 
 Parse json stream or text by this library. The main idea is to maintain a cursor and move it forward till the desired element be
 found, so json can be partially visible.
